@@ -1,0 +1,188 @@
+@media only screen and (max-width: 596px) {
+
+    ul.navbar-nav {
+        background-color: white;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    .nav-item a {
+        color: rgb(0, 0, 0);
+    }
+
+    .Zip {
+        width: 100% !important;
+        height: auto !important;
+        /* border: 3px solid red;    */
+        padding: 10px !important;
+
+    }
+
+
+    .aboutus {
+        margin-top: 15px !important;
+
+    }
+
+
+
+
+    /* .zip2{
+        background-color: aqua;
+        /* width: 20px; */
+
+
+.client232 {
+    padding: 0px 5px;
+}
+
+
+.ullamco {
+    /* display: flex;
+        justify-content: center;
+        align-items: center; */
+    /* border: 3px solid rgb(0, 0, 0); */
+
+
+
+}
+
+.imu {
+    width: 40px !important;
+    /* border: 3px solid rgb(32, 197, 11); */
+
+}
+
+.Duis {
+    text-align: center;
+    /* border: 3px solid red; */
+
+
+
+}
+
+
+.corporis {
+    /* background-color: aqua; */
+    margin-top: 15px !important;
+}
+
+.Quas {
+    margin-top: 15px !important;
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  i pad screen */
+
+
+
+@media only screen and (max-width: 790px) {
+
+
+
+    ul.navbar-nav {
+        background-color: white !important;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+
+    .images{
+        /* border: 3px solid red !important; */
+        /* margin-bottom: -50px !important; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nav-item a {
+        color: rgb(0, 0, 0);
+    }
+
+    .Zip {
+        width: 100% !important;
+        height: auto !important;
+        /* border: 3px solid red;    */
+        padding: 10px !important;
+
+    }
+
+
+    .aboutus {
+        margin-top: 15px !important;
+
+    }
+
+
+
+
+    /* .zip2{
+        background-color: aqua;
+        /* width: 20px; */
+
+
+.client232 {
+    padding: 0px 5px;
+}
+
+
+.ullamco {
+    /* display: flex;
+        justify-content: center;
+        align-items: center; */
+    /* border: 3px solid rgb(0, 0, 0); */
+
+
+
+}
+
+.imu {
+    width: 40px !important;
+    /* border: 3px solid rgb(32, 197, 11); */
+
+}
+
+.Duis {
+    text-align: center;
+    /* border: 3px solid red; */
+
+
+
+}
+
+
+.corporis {
+    /* background-color: aqua; */
+    margin-top: 15px !important;
+}
+
+.Quas {
+    margin-top: 15px !important;
+
+}
+.pricingipad{
+    margin-top: -45px !important;
+    /* background-color: aqua; */
+}
+}
